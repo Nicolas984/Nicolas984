@@ -5,6 +5,7 @@
 
 ----
 
+### 🐍 Contributions Graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas984/Nicolas984/output/github-contribution-grid-snake-dark.svg">
@@ -13,16 +14,15 @@
   </picture>
 </div>
 
+### ✉️ Connections
   <p align="center">
     <a href="mailto:nicolascrescente098@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="www.linkedin.com/in/nicolas-crescente-1998-">
+    <a href="https://www.linkedin.com/in/nicolas-crescente-1998-">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -58,21 +58,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas984&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Nicolas984's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas984&theme=tokyonight&hide_border=true&show_icons=true" alt="Nicolas984's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas984&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Nicolas984's Top Languages" width="48%" />
 </div>
 
 ---
-
-### 🐍 Contributions Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
-  </picture>
-</div>
 
 <br/>
 <p align="center">
