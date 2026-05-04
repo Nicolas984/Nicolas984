@@ -59,8 +59,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas984&theme=tokyonight&hide_border=true&show_icons=true" alt="Nicolas984's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas984&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Nicolas984's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas984&theme=tokyonight&hide_border=true&show_icons=true&v=1" alt="Nicolas984's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas984&langs_count=6&theme=tokyonight&layout=compact&hide_border=true&v=1" alt="Nicolas984's Top Languages" width="48%" />
 </div>
 
 ---
